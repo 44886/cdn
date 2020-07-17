@@ -19,7 +19,7 @@ p {
   border-bottom: 1px solid #c99833;
 }
 /* 一级标题内容 */
- h1 .content {
+ h1  {
   color: #515151;
   font-weight: 700;
 }
@@ -40,7 +40,7 @@ p {
 
 /* 二级标题内容 */
 
- h2 .content {
+ h2  {
   display: inline-block;
   font-weight: bold;
   background: linear-gradient(#fff 60%, #ffb11b 40%);
@@ -61,7 +61,7 @@ p {
 }
 
 /* 三级标题内容 */
- h3 .content {
+ h3  {
   color: #515151;
   font-weight: 700;
  font-size: 1.0em;
